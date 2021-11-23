@@ -1,0 +1,3 @@
+Para la creacion de un modelo con matrial y textura usando el mapeo UV, lo que hize fue buescar una imagen con las caras para un cubo,
+el cual es coo un cofre de minecraft. Ya con el modelo descargado lo importo a unity como un png y creo la textura y el material usando el mismo.
+Usando probuilder creo un modelo y uso el editor del mapa UV para ajustar las caras con el modelo. Asi mismo despues creo el normal map y lo agrego al material de la caja y creo el cuo para ya poder clonarlo despeus y duplicaarlo en la escena
